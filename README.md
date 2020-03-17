@@ -21,7 +21,7 @@ For example, let's say we want to learn Python:
 So these official guides can be, well, difficult to follow sometimes.  Maybe they're hard to understand, or the website is just ugly.  Luckily, there exist some very good guides written by other people.
 
 Again, let's use Python as an example:
-1. Search Google for "python beginner's tutorial"
+1. Search Google for `python beginner's tutorial`
 2. Wow, lots of options!
 
 There are some pros and cons to this approach.  
